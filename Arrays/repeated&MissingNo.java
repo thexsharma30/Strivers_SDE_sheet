@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class repeatedNo {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     public int[] repeatedNumber(final int[] A) {
         int n = A.length;
